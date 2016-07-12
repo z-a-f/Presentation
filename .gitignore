@@ -1,0 +1,10 @@
+*.nav
+*.aux
+*.toc
+*.snm
+*.log
+*~
+.*.swp
+*.out
+out
+build-daemon.pid
