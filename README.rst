@@ -1,7 +1,12 @@
-MIT - Beamer Presentation Template
-==================================
+Beamer Presentation Template
+============================
 
-LaTeX Beamer presentation template derived from Andreas Kloeckner's brown-beamer template:
+The presentation is a clone of the [MIT Beamer template](https://github.com/jtriley/mit-beamer) with some modifications.
+
+MIT - Beamer Presentation Template
+----------------------------------
+
+Latex Beamer presentation template derived from Andreas Kloeckner's brown-beamer template:
 
 http://mathema.tician.de/software/brown-beamer
 
